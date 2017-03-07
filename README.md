@@ -23,3 +23,5 @@ Part 1 involved creating equal interval breaks for the plot whereas part 2 invol
 The dataset for part 3 involved the creation of 'Dissolution Rate' column and a 'Year' column. The facet_wrap function of the ggplot2 
 package has been used to create a grid of 6 choropleth maps plotting values of Dissolution Rate for each year from 2010 to 2015. The color
 scheme has been selected to be sequential to enable quick comparison between values for the same county in different years. 
+
+The final results of parts 1 and 2 are shown in 'equalplot.png' and 'quantileplot.png'. The final plot of part 3 is shown in '6yearplot.png'.
